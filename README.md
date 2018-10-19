@@ -7,7 +7,7 @@
 
 You can install "command-line tools for Xcode" just by running the following command in a Terminal window.
 ```swift
-xcode-select --install
+**xcode-select --install**
 ```
 
 Next, Install homebrew by running the following command in the terminal 
